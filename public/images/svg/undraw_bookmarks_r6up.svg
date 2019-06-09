@@ -1,0 +1,88 @@
+<svg width="832.5" height="677.84461" xmlns="http://www.w3.org/2000/svg">
+ <title>bookmarks</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="679.84461" width="834.5" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse id="svg_1" fill="#f7971E" ry="34" rx="151" cy="643.84461" cx="667"/>
+  <ellipse id="svg_2" stroke-miterlimit="10" stroke="#3f3d56" fill="none" ry="34" rx="151" cy="633.84461" cx="681"/>
+  <circle id="svg_3" fill="#f7971E" r="30" cy="304.34461" cx="436.5"/>
+  <circle id="svg_4" fill="#f7971E" r="30" cy="304.34461" cx="557.5"/>
+  <circle id="svg_5" fill="#f7971E" r="30" cy="304.34461" cx="678.5"/>
+  <circle id="svg_6" fill="#f86b75" r="3" cy="20.34461" cx="12.5"/>
+  <circle id="svg_7" fill="#fad375" r="3" cy="20.34461" cx="21.5"/>
+  <circle id="svg_8" fill="#8bcc55" r="3" cy="20.34461" cx="30.5"/>
+  <rect id="svg_9" fill="#f7971E" height="64" width="206" y="66.84461" x="67"/>
+  <rect id="svg_10" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="216" width="364" y="10.34461" x="0.5"/>
+  <line id="svg_11" stroke-miterlimit="10" stroke="#3f3d56" fill="none" y2="26.70288" x2="364.5" y1="26.70288" x1="0.5"/>
+  <circle id="svg_12" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="18.34461" cx="13.5"/>
+  <circle id="svg_13" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="18.34461" cx="22.5"/>
+  <circle id="svg_14" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="18.34461" cx="31.5"/>
+  <rect id="svg_15" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="64" width="206" y="54.34461" x="79.5"/>
+  <rect id="svg_16" fill="#f2f2f2" height="8.27586" width="276" y="158.84461" x="41"/>
+  <rect id="svg_17" fill="#f2f2f2" height="8.27586" width="276" y="178.70668" x="41"/>
+  <rect id="svg_18" fill="#f2f2f2" height="8.27586" width="276" y="198.56875" x="41"/>
+  <rect id="svg_19" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8.27586" width="276" y="154.84461" x="44"/>
+  <rect id="svg_20" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8.27586" width="276" y="174.70668" x="44"/>
+  <rect id="svg_21" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8.27586" width="276" y="194.56875" x="44"/>
+  <circle id="svg_22" fill="#f86b75" r="3" cy="394.34461" cx="96.5"/>
+  <circle id="svg_23" fill="#fad375" r="3" cy="394.34461" cx="105.5"/>
+  <circle id="svg_24" fill="#8bcc55" r="3" cy="394.34461" cx="114.5"/>
+  <rect id="svg_25" fill="#f7971E" height="64" width="206" y="440.84461" x="151"/>
+  <polyline id="svg_26" stroke-miterlimit="10" stroke="#3f3d56" fill="none" points="448.5 428.345 448.5 600.345 84.5 600.345 84.5 384.345 380.5 384.345"/>
+  <line id="svg_27" stroke-miterlimit="10" stroke="#3f3d56" fill="none" y2="400.70288" x2="381" y1="400.70288" x1="84.5"/>
+  <circle id="svg_28" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="392.34461" cx="97.5"/>
+  <circle id="svg_29" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="392.34461" cx="106.5"/>
+  <circle id="svg_30" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="392.34461" cx="115.5"/>
+  <rect id="svg_31" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="64" width="206" y="428.34461" x="163.5"/>
+  <circle id="svg_32" fill="#f86b75" r="3" cy="221.34461" cx="392.5"/>
+  <circle id="svg_33" fill="#fad375" r="3" cy="221.34461" cx="401.5"/>
+  <circle id="svg_34" fill="#8bcc55" r="3" cy="221.34461" cx="410.5"/>
+  <rect id="svg_35" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="216" width="364" y="211.34461" x="380.5"/>
+  <line id="svg_36" stroke-miterlimit="10" stroke="#3f3d56" fill="none" y2="227.70288" x2="744.5" y1="227.70288" x1="380.5"/>
+  <circle id="svg_37" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="219.34461" cx="393.5"/>
+  <circle id="svg_38" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="219.34461" cx="402.5"/>
+  <circle id="svg_39" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="3" cy="219.34461" cx="411.5"/>
+  <circle id="svg_40" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="30" cy="299.34461" cx="441.5"/>
+  <circle id="svg_41" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="30" cy="299.34461" cx="562.5"/>
+  <circle id="svg_42" stroke-miterlimit="10" stroke="#3f3d56" fill="none" r="30" cy="299.34461" cx="683.5"/>
+  <rect id="svg_43" fill="#f2f2f2" height="8" width="82" y="354.84461" x="396"/>
+  <rect id="svg_44" fill="#f2f2f2" height="8" width="82" y="354.84461" x="518"/>
+  <rect id="svg_45" fill="#f2f2f2" height="8" width="82" y="354.84461" x="640"/>
+  <rect id="svg_46" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8" width="82" y="351.84461" x="400"/>
+  <rect id="svg_47" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8" width="82" y="351.84461" x="522"/>
+  <rect id="svg_48" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="8" width="82" y="351.84461" x="644"/>
+  <rect id="svg_49" fill="#f2f2f2" height="54" width="63" y="529.84461" x="98"/>
+  <rect id="svg_50" fill="#f2f2f2" height="54" width="63" y="530.34461" x="214.5"/>
+  <rect id="svg_51" fill="#f2f2f2" height="54" width="63" y="530.84461" x="331"/>
+  <rect id="svg_52" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="54" width="63" y="519.84461" x="107"/>
+  <rect id="svg_53" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="54" width="63" y="520.34461" x="223.5"/>
+  <rect id="svg_54" stroke-miterlimit="10" stroke="#3f3d56" fill="none" height="54" width="63" y="520.84461" x="340"/>
+  <polygon id="svg_55" fill="#79758c" points="600.786 204.492 572.726 220.039 602.65 209.483 600.786 204.492"/>
+  <ellipse id="svg_56" fill="#3f3d56" transform="rotate(-17.99424934387207 -242.5738677978515,149.13381958007815) " ry="15.77231" rx="7.82868" cy="464.99952" cx="549.73628"/>
+  <ellipse id="svg_57" fill="#3f3d56" transform="rotate(-17.99424934387207 -237.66496276855466,156.0846710205078) " ry="11.13657" rx="5.90628" cy="459.92395" cx="579.04972"/>
+  <polygon id="svg_58" fill="#3f3d56" points="610.365 195.681 628.977 188.961 632.933 199.919 614.919 212.087 610.365 195.681"/>
+  <path id="svg_59" fill="#a0616a" d="m608.58488,235.96856l5,-11s12,-32 1,-26s-15,22 -15,22l-3,10l12,5z"/>
+  <path id="svg_60" fill="#a0616a" d="m745.58488,401.96856s-17,33 -22,34s-5,-30 -5,-30s10,-9 14,-8s13,4 13,4z"/>
+  <path id="svg_61" fill="#55536e" d="m720.58488,609.96856s9,5 5,16s-6,8 -8,17s-20,8 -21,4s-3,-20 2,-26s22,-11 22,-11z"/>
+  <path id="svg_62" fill="#55536e" d="m631.58488,609.96856s-9,5 -5,16s6,8 8,17s20,8 21,4s3,-20 -2,-26s-22,-11 -22,-11z"/>
+  <path id="svg_63" fill="#3f3d56" d="m715.58488,409.96856s8,5 10,36s-1,66 -2,74s1,20 3,26s-5,52 -5,52a23.4326,23.4326 0 0 1 0,20c-5,11 -20,22 -24,11a27.13063,27.13063 0 0 0 -3,-11c-3,-6 2,-30 2,-30s-4,-38 -3,-48s-12,-69 -14,-79s-1,-18 -2,-15s-19,86 -19,86s2,53 1,60s4,21 1,26s-9,23 -20,12s-9,-15 -10,-20s0,-11 0,-19s-8,-53 -4,-60s2,-16 1,-32s-2,-93 8,-107s80,18 80,18z"/>
+  <circle id="svg_64" fill="#a0616a" r="24" cy="198.46856" cx="691.08488"/>
+  <path id="svg_65" fill="#a0616a" d="m706.58488,207.96856s-1,36 4,42s-43,-5 -43,-5s11,-23 4,-38s35,1 35,1z"/>
+  <path id="svg_66" fill="#55536e" d="m715.58488,245.96856s-2,-8 -14,-10s-26.19084,-4 -30.59542,0s-6.40458,9 -9.40458,9l-14,0l-22,39s11,13 8,37s-8,68 -8,68a219.99527,219.99527 0 0 1 21,34c10,20 79,18 75,-17c0,0 -5,-9 -3,-17s8,-62 8,-62l23,-61s-32,-16 -34,-20z"/>
+  <path id="svg_67" fill="#55536e" d="m742.58488,264.96856l7,0s4,23 3,37s-1,47 -1,47s4,8 3,15s-3,26 -3,26s-1,27 -20,13c0,0 -6,-3 -3,-16s-2,-27 -2,-27s3,-9 2,-15s-5,-25 -5,-25l19,-55z"/>
+  <path id="svg_68" fill="#55536e" d="m652.58488,247.96856l-5,-3s-7,-3 -17,0s-15,2 -19,1s-1,-11 -1,-11s-8,-14 -16,-6s-8,24 -8,24s-5,10 13,16s26,15 26,15l20,0l7,-36z"/>
+  <path id="svg_69" fill="#3f3d56" d="m689.45839,227.11616a4.63628,4.63628 0 0 0 -2.8751,-4.13a13.10926,13.10926 0 0 0 -3.41741,-0.67489c-3.40526,-0.43912 -6.90823,-1.6879 -8.8918,-4.28928c-2.64122,-3.46385 -1.91928,-8.30936 -4.03611,-12.0696a41.85984,41.85984 0 0 0 -3.22706,-4.24013c-3.69409,-4.94381 -4.34515,-11.25545 -4.68151,-17.26a7.41034,7.41034 0 0 1 0.40689,-3.60635a13.863,13.863 0 0 1 2.28185,-2.81564a9.35213,9.35213 0 0 0 2.26249,-6.241c-0.10806,-4.6505 6.54605,-7.77555 11.25866,-9.38154s9.82338,-1.86178 14.84422,-1.92973c2.88641,-0.03906 5.86539,-0.00491 8.51833,1.04929a19.607,19.607 0 0 1 4.27089,2.54282c5.5601,4.0699 10.78209,9.07349 12.64833,15.40628a33.3114,33.3114 0 0 1 1.01324,8.8482a5.7908,5.7908 0 0 1 -0.39612,2.72307c-0.66724,1.34161 -2.24018,2.06829 -3.25707,3.2061c-1.89928,2.12511 -1.56121,5.19994 -1.80185,7.94983a18.21013,18.21013 0 0 1 -8.944,13.77276a11.406,11.406 0 0 0 -2.79721,1.9338a12.27894,12.27894 0 0 0 -1.54257,2.69289c-2.00031,3.83666 -7.04004,6.37737 -11.63709,6.51312z"/>
+  <polygon id="svg_70" fill="#79758c" points="192.598 10.671 179.278 18.05 193.483 13.04 192.598 10.671"/>
+  <ellipse id="svg_71" fill="#3f3d56" transform="rotate(-17.99424934387207 -202.81553649902347,12.286270141601603) " ry="7.48683" rx="3.71613" cy="134.17533" cx="177.22282"/>
+  <ellipse id="svg_72" fill="#3f3d56" transform="rotate(-17.99424934387207 -200.4853668212891,15.585709571838432) " ry="5.28632" rx="2.8036" cy="131.76604" cx="191.13737"/>
+  <polygon id="svg_73" fill="#3f3d56" points="197.145 6.488 205.98 3.299 207.858 8.5 199.307 14.276 197.145 6.488"/>
+  <polygon id="svg_74" fill="#79758c" points="282.598 382.671 269.278 390.05 283.483 385.04 282.598 382.671"/>
+  <ellipse id="svg_75" fill="#3f3d56" transform="rotate(-17.99424934387207 -313.3322448730467,58.284671783447216) " ry="7.48683" rx="3.71613" cy="552.17373" cx="156.70612"/>
+  <ellipse id="svg_76" fill="#3f3d56" transform="rotate(-17.99424934387207 -311.00207519531244,61.584110260009865) " ry="5.28632" rx="2.8036" cy="549.76444" cx="170.62066"/>
+  <polygon id="svg_77" fill="#3f3d56" points="287.145 378.488 295.98 375.299 297.858 380.5 289.307 386.276 287.145 378.488"/>
+ </g>
+</svg>
